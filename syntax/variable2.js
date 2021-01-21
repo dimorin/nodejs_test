@@ -1,0 +1,2 @@
+var letter = 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat, obcaecati asperiores impedit sequi dignissimos hic officia modi veniam aspernatur nostrum vel necessitatibus nam nemo dolor suscipit eum maiores. Repudiandae, quidem?';
+console.log(letter);

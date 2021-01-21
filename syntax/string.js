@@ -1,0 +1,2 @@
+console.log('3'+1);
+console.log('Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque rem odio nostrum explicabo voluptate enim harum culpa dignissimos numquam laboriosam architecto iusto voluptas quas suscipit et, maxime molestias inventore officiis.'.length);
